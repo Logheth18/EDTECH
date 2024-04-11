@@ -367,7 +367,7 @@ footer ul li a:hover{
 }
 
 /*============================================================*/
-/* @media screen and (max-width:1024px) {
+ @media screen and (max-width:1024px) {
     .container{
         width: var(--container-width-md);
     }
@@ -385,7 +385,7 @@ footer ul li a:hover{
     }
 } */
 /*============================================================*/
-/* nav button{
+nav button{
     display: inline-block;
     background: transparent;
     font-size: 1.8rem;
